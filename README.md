@@ -8,7 +8,8 @@ A **Monte Carlo analysis (200 runs)** was also performed to evaluate robustness 
 - **DC Gain:** 62.9 dB  
 - **GBW:** 25.1 MHz  
 - **Phase Margin:** 77°  
-- **DC Offset:** 657.82 µV  
+- **DC Offset:** 657.82 µV
+- **Power:** 33.78 µW
 - **CMRR:** 75.197 dB  
 - **PSRR:** 69.1 dB  
 - **Slew Rate:** 16.27 V/µs  

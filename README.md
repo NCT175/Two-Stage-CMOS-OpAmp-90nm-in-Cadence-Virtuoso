@@ -12,7 +12,6 @@ A **Monte Carlo analysis (200 runs)** was also performed to evaluate robustness 
 - **CMRR:** 75.197 dB  
 - **PSRR:** 69.1 dB  
 - **Slew Rate:** 16.27 V/µs  
-- **Load Capacitance:** 1 pF  
 
 ## Architecture
 The op-amp uses a classical **two-stage CMOS topology**:
